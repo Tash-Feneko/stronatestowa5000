@@ -1,7 +1,7 @@
 ---
-title: What's New
-short_title: News
-excerpt: Get the latest updates and find out what's new
+title: Co nowego
+short_title: Informacje
+excerpt: Bieżące informacje ze społeczności
 icon:
   name: fa fa-newspaper-o
 color: green
