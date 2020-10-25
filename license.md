@@ -2,16 +2,17 @@
 title: License
 ---
 
-# License
-
+# Projekt na licencji uznanie autorstwa-na tych samych warunkach 3.0 Polska (CC BY-SA 3.0 PL)
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed eu ornare massa.
 
-In non turpis nisi. Mauris congue elementum ligula, mattis rhoncus ex. Nam id sem quis mauris sollicitudin pharetra.
-Integer ac sodales arcu, ut vulputate leo. Sed consequat justo sed luctus auctor. Pellentesque ullamcorper odio eget
-orci varius fringilla. Phasellus posuere massa elit, rhoncus laoreet sem accumsan nec. In magna eros, consequat sit amet
-efficitur in, feugiat sed felis.
+# Wolno:
+* Dzielenie się — kopiuj i rozpowszechniaj utwór w dowolnym medium i formacie
+* Adaptacje — remiksuj, zmieniaj i twórz na bazie utworu
+dla dowolnego celu, także komercyjnego.
 
-Integer eleifend arcu diam, at lobortis ipsum venenatis a. Curabitur quis scelerisque augue, vel blandit libero.
-Phasellus fringilla nec mauris sed hendrerit. Fusce felis magna, ullamcorper nec diam nec, venenatis luctus quam. Nullam
-ac semper sapien. Curabitur neque libero, placerat non consectetur vitae, gravida eu neque. Phasellus erat nibh, pretium
-vel arcu et, fermentum mattis urna.
+# Na następujących warunkach:
+* Uznanie autorstwa — Utwór należy odpowiednio oznaczyć, podać link do licencji i wskazać jeśli zostały dokonane w nim zmiany . Możesz to zrobić w dowolny, rozsądny sposób, o ile nie sugeruje to udzielania prze licencjodawcę poparcia dla Ciebie lub sposobu, w jaki wykorzystujesz ten utwór.
+* Na tych samych warunkach — Remiksując utwór, przetwarzając go lub tworząc na jego podstawie, należy swoje dzieło rozpowszechniać na tej samej licencji, co oryginał.
+* Brak dodatkowych ograniczeń — Nie możesz korzystać ze środków prawnych lub technologicznych, które ograniczają innych w korzystaniu z utworu na warunkach określonych w licencji.
+
+Streszczenie licencji zaczerpnięto ze strony [creativecommons.org](https://creativecommons.org/licenses/by-sa/3.0/pl/), pełną treść licencji znajdziesz [tutaj](https://creativecommons.org/licenses/by-sa/3.0/pl/legalcode).
