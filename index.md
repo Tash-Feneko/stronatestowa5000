@@ -1,6 +1,6 @@
 ## Welcome to GitHub Pages
 
-Zmieniona treść. Drugi raz.
+Zmieniona treść. Drugi raz. Trzeci raz.
 
 You can use the [editor on GitHub](https://github.com/Tash-Feneko/stronatestowa5000/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
