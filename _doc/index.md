@@ -2,7 +2,7 @@
 layout: home
 title: Home
 tagline: |
-  Baza wiedzy społeczności *&nbsp;*{: .fa .fa-heart} dla społeczności
+  Repozytorium wiedzy społeczności
   
 heading: Getting started is easy!
 navigation:
