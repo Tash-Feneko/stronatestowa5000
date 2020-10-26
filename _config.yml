@@ -27,11 +27,11 @@ kramdown:
 # Owner
 #
 owner:
-  name: Guillermo Calvo
-  twitter: &site_owner_twitter gcalvo
-  copyright:
-    notice: Lorem Ipsum
-    author: "[Guillermo Calvo](https://guillermo.in/)"
+  name: Tash
+  twitter: &site_owner_twitter TashFeneko
+  copyright: CC BY-SA 3.0 PL
+    notice: 
+    author: "Tash"
 
 
 #
@@ -95,6 +95,3 @@ defaults:
       type: pages
     values:
       layout: doc
-
-plugins: [jekyll-youtube]
- # This will require each of these gems automatically.
