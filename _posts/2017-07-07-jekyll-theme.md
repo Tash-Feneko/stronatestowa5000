@@ -15,4 +15,4 @@ Here is an example of a GitHub Pages site using this theme:
 
 - [GitHub Pages Demo source code](https://github.com/LeakyAbstractions/pretty-docs/tree/gh-pages)
 
-{% youtube dQw4w9WgXcQ %}
+[![Alt text](https://img.youtube.com/vi/grgUXOBv_po/0.jpg)](https://www.youtube.com/watch?v=grgUXOBv_po)
