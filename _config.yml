@@ -29,7 +29,7 @@ kramdown:
 owner:
   name: Tash
   twitter: &site_owner_twitter TashFeneko
-  copyright: CC BY-SA 3.0 PL
+  copyright:
     notice: Lorem Ipsum
     author: "[Guillermo Calvo](https://guillermo.in/)"
 
