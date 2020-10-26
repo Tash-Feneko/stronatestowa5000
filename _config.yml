@@ -80,9 +80,6 @@ collections:
 
 
 #
-
-plugins: [jekyll-youtube]
- # This will require each of these gems automatically.
 # Default values
 #
 defaults:
@@ -98,3 +95,6 @@ defaults:
       type: pages
     values:
       layout: doc
+
+plugins: [jekyll-youtube]
+ # This will require each of these gems automatically.
