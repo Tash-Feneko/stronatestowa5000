@@ -17,6 +17,6 @@ navigation:
   - /legal
 ---
 
-Niezależnie od tego czy jesteś osobą trans, czy jeszcze tego nie wiesz, osobą wspierającą, a może pracownikiem służb publicznych, urzędnikiem czy też nauczycielem lub osobą szukającą materiałów do pracy naukowej, mamy nadzieję, że najdziesz tu odpowiedzi na wszelkie nurtujące Cię pytania.
+Niezależnie od tego czy jesteś osobą trans, czy jeszcze tego nie wiesz, osobą wspierającą, a może pracownikiem służb publicznych, urzędnikiem czy też nauczycielem lub osobą szukającą materiałów do pracy naukowej, mamy nadzieję, że najdziesz tu odpowiedzi na wszelkie nurtujące Cię pytania. Czerp z tej strony do woli, a jeśli masz czas i ochotę, śmiało dziel się swoimi doświadczeniami.
 
-Czerp z tej strony do woli, a jeśli masz czas i ochotę, śmiało dziel się swoimi doświadczeniami. Dzięki temu cała społeczność zyskuje :)
+Dzięki temu cała społeczność zyskuje :)
