@@ -3,8 +3,8 @@ layout: home
 title: Home
 tagline: |
   Repozytorium wiedzy społeczności
-  
-heading: Getting started is easy!
+
+heading: Witaj na stronie projektu tranzycja.pl!
 navigation:
   - /start
   - /components
@@ -17,16 +17,6 @@ navigation:
   - /legal
 ---
 
-Welcome to prettyDocs.
-This landing page is an example of how you can use a card view to present segments of your documentation.
-You can customise the icon fonts based on your needs.
+Niezależnie od tego czy jesteś osobą transpłciową, kwestionującą, osoba wspierającą, a może pracownikiem służb publicznych, urzędnikiem czy nauczycielem lub osobą szukającą materiałów do pracy naukowej, mamy nadzieję, że najdziesz tu odpowiedzi na wszelkie nurtujące Cię pytania.
 
-<div class="cta-container">
-
-[*&nbsp;*{: .fa .fa-cloud-download} Download Now][PRETTYDOCS]{: .btn .btn-primary .btn-cta}
-[*&nbsp;*{: .fa .fa-github} Use in GitHub Pages][GHPAGES]{: .btn .btn-green .btn-primary .btn-cta}
-
-</div>
-
-[PRETTYDOCS]: https://themes.3rdwavemedia.com/website-templates/prettydocs-free-bootstrap-theme-developers-and-startups/
-[GHPAGES]: https://github.com/LeakyAbstractions/pretty-docs/tree/gh-pages
+Czerp z tej strony do woli, a jeśli masz czas i ochotę, śmiało dziel się swoimi doświadczeniami. Dzięki temu cała społeczność zyskuje :)
