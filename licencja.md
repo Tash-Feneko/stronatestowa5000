@@ -1,5 +1,5 @@
 ---
-title: License
+title: Licencja
 ---
 
 # Projekt na licencji uznanie autorstwa-na tych samych warunkach 3.0 Polska (CC BY-SA 3.0 PL)
