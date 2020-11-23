@@ -7,4 +7,5 @@ color: blue
 sections:
   - /spolecznosc
   - /wsparcie-projektu
+  - /licencja
 ---
