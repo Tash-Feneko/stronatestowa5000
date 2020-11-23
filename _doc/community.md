@@ -7,5 +7,5 @@ color: pink
 sections:
   - /support
   - /contributing
-  - /licencja
+  - /licence
 ---
