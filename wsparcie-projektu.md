@@ -1,15 +1,10 @@
 ---
-layout: home
-title: Strona domowa
-tagline: |
-  Repozytorium wiedzy społeczności
-
-heading: Witaj na stronie projektu tranzycja.pl!
-navigation:
-  - /news
-  - /showcase
-  - /spolecznosc
+title: Wsparcie projektu
+short_title: Wsparcie
 ---
+
+Git hub {: .fa .fa-github}
+hackmd
 
 Niezależnie od tego czy jesteś osobą trans, czy jeszcze tego nie wiesz, osobą wspierającą, a może pracownikiem służb publicznych, urzędnikiem czy też nauczycielem lub osobą szukającą materiałów do pracy naukowej, mamy nadzieję, że najdziesz tu odpowiedzi na wszelkie nurtujące Cię pytania.
 

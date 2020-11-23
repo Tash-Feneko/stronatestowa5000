@@ -5,7 +5,7 @@ icon:
   name: fa fa-thumbs-o-up
 color: blue
 sections:
-  - /support
-  - /contributing
+  - /spolecznosc
+  - /wsparcie-projektu
   - /licencja
 ---
