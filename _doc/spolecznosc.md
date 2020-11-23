@@ -7,5 +7,5 @@ color: blue
 sections:
   - /support
   - /contributing
-  - /license
+  - /licencja
 ---
