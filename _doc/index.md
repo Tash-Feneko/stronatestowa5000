@@ -2,7 +2,7 @@
 layout: home
 title: Strona domowa
 tagline: |
-  Repozytorium wiedzy społeczności
+  Repozytorium wiedzy
 
 heading: Witaj na stronie projektu tranzycja.pl!
 navigation:
