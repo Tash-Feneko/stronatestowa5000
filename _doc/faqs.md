@@ -8,7 +8,7 @@ color: purple
 sections:
   - /faqs/detranzycje
 promo:
-  title: "*&nbsp;*{: .fa .fa-heart} [AppKit - Bootstrap Angular Admin Theme for Developers](https://wrapbootstrap.com/theme/admin-appkit-admin-theme-angularjs-WB051SCJ1?ref=3wm)"
+  title: "*&nbsp;*{: .fa .fa-heart} [tranzycja.pl - od społeczności, dla społeczności](https://tranzycja.pl)"
   link: https://www.facebook.com/Tranzycjapl-101397228569497
   image:
     alt: AppKit Theme
