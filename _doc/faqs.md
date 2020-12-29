@@ -1,15 +1,12 @@
 ---
 title: FAQs
-excerpt: Layout for FAQ page. Lorem ipsum dolor sit amet, consectetuer adipiscing elit
+excerpt: Pytania i odpowiedzi
 date: 2016-01-25
 icon:
   name: icon_lifesaver
 color: purple
 sections:
-  - /faqs/general
-  - /faqs/features
-  - /faqs/pricing
-  - /faqs/support
+  - /faqs/detranzycje
 promo:
   title: "*&nbsp;*{: .fa .fa-heart} [AppKit - Bootstrap Angular Admin Theme for Developers](https://wrapbootstrap.com/theme/admin-appkit-admin-theme-angularjs-WB051SCJ1?ref=3wm)"
   link: https://wrapbootstrap.com/theme/admin-appkit-admin-theme-angularjs-WB051SCJ1?ref=3wm
