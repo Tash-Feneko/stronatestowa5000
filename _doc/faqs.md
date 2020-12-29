@@ -12,12 +12,12 @@ promo:
   link: https://www.facebook.com/Tranzycjapl-101397228569497
   image:
     alt: AppKit Theme
-    link: assets/images/logo.png
+    link: assets/images/logo-min.png
     icon:
       type: fa
       name: fa-heart pink
   content:
-    title: "*Masz pytania na które nie brakuje tu odpowiedzi?**"
+    title: "**Masz pytania na które nie brakuje tu odpowiedzi?**"
     desc: |
       Ten projekt jest rozwijany dzięki wsparciu takich osób jak Ty. Odwiedź naszą stronę na Facebooku, projekt na hackmd lub GitHub i dołącz do naszej społeczności.
 ---
