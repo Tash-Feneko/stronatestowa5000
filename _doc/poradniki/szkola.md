@@ -135,11 +135,11 @@ Dlatego tak ważne jest, żeby uczniowie mieli poczucie, że szkoła jest miejsc
 
 Jeśli wolisz formę audio-wideo lub po prostu chcesz się zapoznać z doświadczeniami poszczególnych uczniów, zapraszam do obejrzenia następnujących materiałów:
 
-{%youtube lPIe_LEdqTE %}
+{% include youtube.html id=lPIe_LEdqTE %}
 
-{%youtube 3Os3JGETTqE %}
+{% include youtube.html id=3Os3JGETTqE %}
 
-{%youtube grgUXOBv_po %}
+{% include youtube.html id=grgUXOBv_po %}
 
 
 # Dodatkowe materiały:
