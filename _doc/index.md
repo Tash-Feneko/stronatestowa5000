@@ -9,4 +9,5 @@ navigation:
   - /news
   - /showcase
   - /spolecznosc
+  - /faqs
 ---
