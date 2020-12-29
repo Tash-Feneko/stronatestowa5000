@@ -1,7 +1,7 @@
 ---
 title: FAQs
 excerpt: Pytania i odpowiedzi
-date: 2016-01-25
+date: 2020-12-29
 icon:
   name: icon_lifesaver
 color: purple
