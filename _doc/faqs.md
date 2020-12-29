@@ -25,7 +25,7 @@ promo:
       **[Tip for developers]:**{: .highlight}
       If your project is Open Source, you can use this area to promote your other projects or hold third party adverts like Bootstrap and FontAwesome do!
 
-      [View Demo](https://wrapbootstrap.com/theme/admin-appkit-admin-theme-angularjs-WB051SCJ1?ref=3wm){: .btn .btn-cta}
+      [test](https://wrapbootstrap.com/theme/admin-appkit-admin-theme-angularjs-WB051SCJ1?ref=3wm){: .btn .btn-cta}
 
       {: .author}
       [Xiaoying Riley](http://themes.3rdwavemedia.com)
