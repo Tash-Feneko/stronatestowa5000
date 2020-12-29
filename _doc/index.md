@@ -7,7 +7,7 @@ tagline: |
 heading: Witaj na stronie projektu tranzycja.pl!
 navigation:
   - /news
-  - /showcase
+  - /poradniki
   - /spolecznosc
   - /faqs
 ---
