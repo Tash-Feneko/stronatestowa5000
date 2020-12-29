@@ -2,7 +2,7 @@
 title: Start projektu
 ---
 
-Z radością i dumą otwieram projekt tranzycja.pl!
+# Z radością i dumą otwieram projekt tranzycja.pl!
 
 Znajdziesz stronę na niej pierwsze wpisy:
 * W ramach serii artykułów o tranzycji krok po kroku, powstał tekst wyczerpujący na wszelkie sposoby temat urzędowej zmiany imienia.
