@@ -144,7 +144,59 @@ Jeśli uczysz WdŻ, jesteś wychowawcą, albo po prostu chcesz poruszyć na lekc
 
 * ["WdŻ dla zaawansowanych"](https://www.facebook.com/permalink.php?story_fbid=1259048871123262&id=775424922818995)
 
-<div class="fb-post" data-href="https://www.facebook.com/permalink.php?story_fbid=1259048871123262&amp;id=775424922818995" data-width="500" data-show-text="true"><blockquote cite="https://www.facebook.com/permalink.php?story_fbid=1259048871123262&amp;id=775424922818995" class="fb-xfbml-parse-ignore"><p>Wrzuciłam ostatnio dwie recenzje, w których jednym z zarzutów było to, jak opisane są osoby transpłciowe. Miałam potem...</p>Opublikowany przez <a href="https://www.facebook.com/Wd&#x17b;-dla-zaawansowanych-775424922818995/">WdŻ dla zaawansowanych</a>&nbsp;<a href="https://www.facebook.com/permalink.php?story_fbid=1259048871123262&amp;id=775424922818995">Czwartek, 5 listopada 2020</a></blockquote></div>
+<div class="row">
+
+ <div class="col-md-6 col-sm-12 col-sm-12">
+
+###### Use Case 1
+
+Project management
+
+  <div class="screenshot-holder">
+   <a href="assets/images/szkola/wdz-dla-zaaw-szkola-1.jpg" data-title="Dashboard - Project Management" data-toggle="lightbox"><img class="img-responsive" src="assets/images/demo/appkit-dashboard-1-thumb.jpg" alt="screenshot" /></a>
+   <a class="mask" href="assets/images/demo/appkit-dashboard-1.jpg" data-title="Dashboard - Project Management" data-toggle="lightbox"><i class="icon fa fa-search-plus"></i></a>
+  </div>
+ </div>
+
+ <div class="col-md-6 col-sm-12 col-sm-12">
+
+###### Use Case 2
+
+Web analytics
+
+  <div class="screenshot-holder">
+   <a href="assets/images/szkola/wdz-dla-zaaw-szkola-2.jpg" data-title="Dashboard - Web Analytics" data-toggle="lightbox"><img class="img-responsive" src="assets/images/szkola/wdz-dla-zaaw-szkola-2.jpg" alt="screenshot" /></a>
+   <a class="mask" href="assets/images/demo/appkit-dashboard-2.jpg" data-title="Dashboard - Web Analytics" data-toggle="lightbox"><i class="icon fa fa-search-plus"></i></a>
+  </div>
+ </div>
+
+ <div class="clearfix"></div>
+
+ <div class="col-md-6 col-sm-12 col-sm-12">
+
+###### Use Case 3
+
+Health/Fitness app
+
+  <div class="screenshot-holder">
+   <a href="assets/images/szkola/wdz-dla-zaaw-szkola-3.jpg" data-title="Dashboard - Health/Fitness" data-toggle="lightbox"><img class="img-responsive" src="assets/images/demo/appkit-dashboard-3-thumb.jpg" alt="screenshot" /></a>
+   <a class="mask" href="assets/images/demo/appkit-dashboard-3.jpg" data-title="Dashboard - Health/Fitness" data-toggle="lightbox"><i class="icon fa fa-search-plus"></i></a>
+  </div>
+ </div>
+
+ <div class="col-md-6 col-sm-12 col-sm-12">
+
+###### Use Case 4
+
+Web hosting
+
+  <div class="screenshot-holder">
+   <a href="assets/images/szkola/wdz-dla-zaaw-szkola-4.jpg" data-title="Dashboard - Web Hosting" data-toggle="lightbox"><img class="img-responsive" src="assets/images/demo/appkit-dashboard-4-thumb.jpg" alt="screenshot" /></a>
+   <a class="mask" href="assets/images/demo/appkit-dashboard-4.jpg" data-title="Dashboard - Web Hosting" data-toggle="lightbox"><i class="icon fa fa-search-plus"></i></a>
+  </div>
+ </div>
+
+</div>
 
 ![](https://tash-feneko.github.io/stronatestowa5000/assets/images/szkola/wdz-dla-zaaw-szkola-1.jpg  =200x) ![](https://tash-feneko.github.io/stronatestowa5000/assets/images/szkola/wdz-dla-zaaw-szkola-2.jpg  =200x) ![](https://tash-feneko.github.io/stronatestowa5000/assets/images/szkola/wdz-dla-zaaw-szkola-3.jpg  =200x) ![](https://tash-feneko.github.io/stronatestowa5000/assets/images/szkola/wdz-dla-zaaw-szkola-4.jpg  =200x) ![](https://tash-feneko.github.io/stronatestowa5000/assets/images/szkola/wdz-dla-zaaw-szkola-5.jpg  =200x) ![](https://tash-feneko.github.io/stronatestowa5000/assets/images/szkola/wdz-dla-zaaw-szkola-6.jpg  =200x) ![](https://tash-feneko.github.io/stronatestowa5000/assets/images/szkola/wdz-dla-zaaw-szkola-7.jpg  =200x) ![](https://tash-feneko.github.io/stronatestowa5000/assets/images/szkola/wdz-dla-zaaw-szkola-8.jpg  =200x)
 
