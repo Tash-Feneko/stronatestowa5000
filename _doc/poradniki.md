@@ -1,22 +1,31 @@
 ---
 title: Poradniki
-excerpt: Codzienne problemy i sytuacje związane z tranpłciowością
-date: 2020-12-30
+excerpt: Jak radzić sobie w szkole, pracy i innych codziennych sytuacjach
+date: 2016-01-25
 icon:
-  name: icon_lifesaver
-color: purple
+  type: fa
+  name: fa-paper-plane
+color: green
 sections:
   - /poradniki/szkola
 promo:
-  title: "*&nbsp;*{: .fa .fa-heart} [tranzycja.pl - od społeczności, dla społeczności](https://tranzycja.pl)"
-  link: https://www.facebook.com/Tranzycjapl-101397228569497
+  title: "*&nbsp;*{: .fa .fa-heart} [AppKit - Bootstrap Angular Admin Theme for Developers](https://wrapbootstrap.com/theme/admin-appkit-admin-theme-angularjs-WB051SCJ1?ref=3wm)"
+  link: https://wrapbootstrap.com/theme/admin-appkit-admin-theme-angularjs-WB051SCJ1?ref=3wm
   image:
-    alt: tranzycja.pl
-    link: assets/images/logo-min.png
+    alt: AppKit Theme
+    link: assets/images/demo/appkit-widgets-thumb.jpg
     icon:
       type: fa
       name: fa-heart pink
   content:
-    title: "**Masz pytania na które nie brakuje tu odpowiedzi?**"
+    title: "**Love this free documentation theme?**"
     desc: |
-      Ten projekt jest rozwijany dzięki wsparciu takich osób jak Ty. Odwiedź naszą stronę na Facebooku, projekt na hackmd lub GitHub i dołącz do naszej społeczności.
+      Check out AppKit - an Angular admin theme I created with my developer friend [Tom Najdek](https://twitter.com/tnajdek)
+      for developers. AppKit uses modern front-end technologies and is packed with useful components and widgets to speed up your app development.
+
+      **[Tip for developers]:**{: .highlight}
+      If your project is Open Source, you can use this area to promote your other projects or hold third party adverts like Bootstrap and FontAwesome do!
+
+      {: .author}
+      [Xiaoying Riley](http://themes.3rdwavemedia.com)
+---
