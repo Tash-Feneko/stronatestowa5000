@@ -13,7 +13,7 @@ sections:
 ---
 ### Test
 
-### Wstęp
+### Wstep
 
 Ten wpis jest w dużym stopniu kierowany dla nauczycieli, ale nie tylko. Znajdziesz w nim informacje na temat potrzeb transpłciowej młodzieży w szkole, trudnych sytuacji z jakimi się zmaga, ale przykłady rozwiązań i podpowiedzi. W zależności od preferencji, możesz zapoznać się tutaj z tekstowym podsumowaniem, załączonymi materiałami wideo, a nawet znaleźć gotowe poradniki do zapoznania się czy wydrukowania i zaniesienia do szkoły.
 
