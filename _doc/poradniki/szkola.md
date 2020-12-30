@@ -146,15 +146,9 @@ Jeśli wolisz formę audio-wideo lub po prostu chcesz się zapoznać z doświadc
 
 * [Transpłciowe dzieckow w szkole. Poradnik nie tylko dla nauczycieli/ek // 2020](https://tash-feneko.github.io/stronatestowa5000/assets/docs/szkola/Transp%C5%82ciowe-dziecko-w-szkole.pdf)
 
-{%pdf https://tash-feneko.github.io/stronatestowa5000/assets/docs/szkola/Transp%C5%82ciowe-dziecko-w-szkole.pdf %}
-
 * [Transpłciowa Młodzież w Polskiej Szkole - Specyfika pomocy transpłciowym dzieciom i Młodzieży. Podręcznik dla nauczycieli. // 2016](https://tash-feneko.github.io/stronatestowa5000/assets/docs/szkola/trans_mlodziez_net.pdf)
 
-{%pdf https://tash-feneko.github.io/stronatestowa5000/assets/docs/szkola/trans_mlodziez_net.pdf %}
-
 * [Transpłciowa młodzież w polskiej szkole Raport z badań // 2016](https://tash-feneko.github.io/stronatestowa5000/assets/docs/szkola/transplciowa_mlodziez.pdf)
-
-{%pdf https://tash-feneko.github.io/stronatestowa5000/assets/docs/szkola/transplciowa_mlodziez.pdf %}
 
 # Możesz ulepszyć ten artykuł!
 
