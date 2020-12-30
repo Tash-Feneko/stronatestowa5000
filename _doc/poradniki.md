@@ -6,7 +6,7 @@ icon:
   name: icon_lifesaver
 color: purple
 sections:
-  - /poradniki/detranzycje
+  - /poradniki/szkola
 promo:
   title: "*&nbsp;*{: .fa .fa-heart} [tranzycja.pl - od społeczności, dla społeczności](https://tranzycja.pl)"
   link: https://www.facebook.com/Tranzycjapl-101397228569497
