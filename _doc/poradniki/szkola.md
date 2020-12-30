@@ -153,8 +153,8 @@ Jeśli uczysz WdŻ, jesteś wychowawcą, albo po prostu chcesz poruszyć na lekc
 Project management
 
   <div class="screenshot-holder">
-   <a href="assets/images/szkola/wdz-dla-zaaw-szkola-1.jpg" data-title="Dashboard - Project Management" data-toggle="lightbox"><img class="img-responsive" src="assets/images/demo/appkit-dashboard-1-thumb.jpg" alt="screenshot" /></a>
-   <a class="mask" href="assets/images/demo/appkit-dashboard-1.jpg" data-title="Dashboard - Project Management" data-toggle="lightbox"><i class="icon fa fa-search-plus"></i></a>
+   <a href="assets/images/szkola/wdz-dla-zaaw-szkola-1.jpg" data-title="Dashboard - Project Management" data-toggle="lightbox"><img class="img-responsive" src="assets/images/szkola/wdz-dla-zaaw-szkola-1.jpg" alt="screenshot" /></a>
+   <a class="mask" href="assets/images/szkola/wdz-dla-zaaw-szkola-1.jpg" data-title="Dashboard - Project Management" data-toggle="lightbox"><i class="icon fa fa-search-plus"></i></a>
   </div>
  </div>
 
@@ -179,8 +179,8 @@ Web analytics
 Health/Fitness app
 
   <div class="screenshot-holder">
-   <a href="assets/images/szkola/wdz-dla-zaaw-szkola-3.jpg" data-title="Dashboard - Health/Fitness" data-toggle="lightbox"><img class="img-responsive" src="assets/images/demo/appkit-dashboard-3-thumb.jpg" alt="screenshot" /></a>
-   <a class="mask" href="assets/images/demo/appkit-dashboard-3.jpg" data-title="Dashboard - Health/Fitness" data-toggle="lightbox"><i class="icon fa fa-search-plus"></i></a>
+   <a href="assets/images/szkola/wdz-dla-zaaw-szkola-3.jpg" data-title="Dashboard - Health/Fitness" data-toggle="lightbox"><img class="img-responsive" src="assets/images/szkola/wdz-dla-zaaw-szkola-3.jpg" alt="screenshot" /></a>
+   <a class="mask" href="assets/images/szkola/wdz-dla-zaaw-szkola-3.jpg" data-title="Dashboard - Health/Fitness" data-toggle="lightbox"><i class="icon fa fa-search-plus"></i></a>
   </div>
  </div>
 
@@ -191,8 +191,8 @@ Health/Fitness app
 Web hosting
 
   <div class="screenshot-holder">
-   <a href="assets/images/szkola/wdz-dla-zaaw-szkola-4.jpg" data-title="Dashboard - Web Hosting" data-toggle="lightbox"><img class="img-responsive" src="assets/images/demo/appkit-dashboard-4-thumb.jpg" alt="screenshot" /></a>
-   <a class="mask" href="assets/images/demo/appkit-dashboard-4.jpg" data-title="Dashboard - Web Hosting" data-toggle="lightbox"><i class="icon fa fa-search-plus"></i></a>
+   <a href="assets/images/szkola/wdz-dla-zaaw-szkola-4.jpg" data-title="Dashboard - Web Hosting" data-toggle="lightbox"><img class="img-responsive" src="assets/images/szkola/wdz-dla-zaaw-szkola-4.jpg" alt="screenshot" /></a>
+   <a class="mask" href="assets/images/szkola/wdz-dla-zaaw-szkola-4.jpg" data-title="Dashboard - Web Hosting" data-toggle="lightbox"><i class="icon fa fa-search-plus"></i></a>
   </div>
  </div>
 
