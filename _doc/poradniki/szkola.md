@@ -1,6 +1,7 @@
 ---
 title: Transpłciowa młodzież w polskiej szkole
 sections:
+  - Test
   - Wstęp
   - Słowo potężniejsze od miecza
   - Gdy osoba informuje Cię o swojej tożsamości
@@ -10,6 +11,7 @@ sections:
   - Dodatkowe materiały
   - Przypisy
 ---
+### Test
 
 ### Wstęp
 
