@@ -14,7 +14,7 @@ branding:
 markdown: kramdown
 kramdown:
   auto_ids: true
-  entity_output: as_char
+  entity_output: as_input
   toc_levels: 1..6
   smart_quotes: lsquo,rsquo,ldquo,rdquo
   input: GFM
