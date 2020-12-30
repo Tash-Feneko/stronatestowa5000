@@ -166,7 +166,7 @@ Web analytics
 
   <div class="screenshot-holder">
    <a href="assets/images/szkola/wdz-dla-zaaw-szkola-2.jpg" data-title="Dashboard - Web Analytics" data-toggle="lightbox"><img class="img-responsive" src="assets/images/szkola/wdz-dla-zaaw-szkola-2.jpg" alt="screenshot" /></a>
-   <a class="mask" href="assets/images/demo/appkit-dashboard-2.jpg" data-title="Dashboard - Web Analytics" data-toggle="lightbox"><i class="icon fa fa-search-plus"></i></a>
+   <a class="mask" href="assets/images/szkola/wdz-dla-zaaw-szkola-2.jpg" data-title="Dashboard - Web Analytics" data-toggle="lightbox"><i class="icon fa fa-search-plus"></i></a>
   </div>
  </div>
 
