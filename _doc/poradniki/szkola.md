@@ -33,30 +33,31 @@ Za: [Stanowisko PTS ws. sytuajci społecznej, zdrowotnej i prawnej osób transp�
 
 > Zagadnienia te wymagają szczególnego uwzględnienia przez osoby zajmujące się pomaganiem, ale także te grupy zawodowe, które kształtują język debaty publicznej, jak dziennikarze, prawnicy, czy politycy.
 
-:::info
-ℹ️  Jeśli nie wiesz jak funkcjonuje język osób niebinarnych, poratuje Cię projekt [zaimki.pl](https://zaimki.pl/)
-:::
+<div class="callout-block callout-info"><div class="icon-holder">*&nbsp;*{: .fa .fa-info-circle}
+</div><div class="content">
+{: .callout-title}
+#### Niebinarny język i neutratywy
 
-Nauczyciele bardzo często nie chcą się posługiwać poprawnym imieniem czy zaimkami z którymi uczeń czuje się komfortowo, złośliwie podkreślają deadname, a bywa też, że wyświetlają e-dziennik z danymi ucznia na projektorze, aby go jeszcze bardziej upokorzyć. Tego typu skrajne sytuacje łamią oczywiście przepisy RODO i dyrektor szkoły ma obowiązek interweniować. Jeśli masz podejrzenia, że pracownik szkoły niepoprawnie obchodzi się z Twoimi danymi osobowymi, możesz zapoznać się a następnie odwołac do [poradnika na temat ochrony danych osobowych w szkole](https://www.gov.pl/web/edukacja/ochrona-danych-osobowych-w-szkole--poradnik-uodo-i-men).
+eśli nie wiesz jak funkcjonuje język osób niebinarnych, poratuje Cię projekt [zaimki.pl](https://zaimki.pl/)
 
+</div></div>
 
+Nauczyciele bardzo często nie chcą się posługiwać poprawnym imieniem czy zaimkami z którymi uczeń czuje się komfortowo, złośliwie podkreślają deadname, a bywa też, że wyświetlają e-dziennik z danymi ucznia na projektorze, aby go jeszcze bardziej upokorzyć. Tego typu skrajne sytuacje łamią oczywiście przepisy RODO i dyrektor szkoły ma obowiązek interweniować. Jeśli masz podejrzenia, że pracownik szkoły niepoprawnie obchodzi się z Twoimi danymi osobowymi, możesz zapoznać się a następnie odwołać do [poradnika na temat ochrony danych osobowych w szkole](https://www.gov.pl/web/edukacja/ochrona-danych-osobowych-w-szkole--poradnik-uodo-i-men).
 
+<div class="callout-block callout-info"><div class="icon-holder">*&nbsp;*{: .fa .fa-info-circle}
+</div><div class="content">
+{: .callout-title}
+#### "Deadname"
 
+Jest to imię nadane przy urodzeniu, podczas gdy osoba posługuje się innym (niezależnie od tego, czy zmieniła je prawnie czy nie). Dla wielu osób transpłciowych ciągła konfrontacja z nim jest trudna, a nawet traumatyczna.
 
+</div></div>
 
-:::info
-ℹ️  "Deadname" to imię nadane przy urodzeniu, podczas gdy osoba posługuje się innym (niezależnie od tego, czy zmieniła je prawnie czy nie). Dla wielu osób transpłciowych ciągła konfrontacja z nim jest trudna, a nawet traumatyczna.
-:::
+**Używanie poprawnego imienia i zaimków redukuje depresję oraz ryzyko samobójstw[^1][^2] wśród osób transpłciowych**, dlatego należy unikać stosowania określeń i danych z którymi uczeń czuje się niekomfortowo i ograniczyć je do niezbędnego minimum. W sytuacji, gdy do szkoły przychodzi nowe ucznium i na starcie dostajemy informację od rodziców, że posługuje się innymi danymi niż w dokumentach, reszta uczniów nie musi o tym wiedzieć. Pomoże to uniknąć nieprzyjemnych sytuacji i nękania.
 
-**Używanie poprawnego imienia i zaimków redukuje depresję oraz ryzyko samobójstw[^1][^2] wśród osób transpłciowych**, dlatego należy unikać stosowania określeń i danych z którymi uczeń czuje się niekomfortowo i ogranicznyć je do niezbędnego minimum. W sytuacji, gdy do szkoły przychodzi nowe ucznium i na starcie dostajemy informację od rodziców, że posługuje się innymi danymi niż w dokumentach, reszta uczniów nie musi o tym wiedzieć. Pomoże to uniknąć nieprzyjemnych sytuacji i nękania.
+Dobrą praktyką jest danie nowym uczniom możliwości podzielenia się swoimi zaimkami i preferowanym imieniem na początku nauki, jednak dużo osób trans nie doważy się wyjść z taką inicjatywą w nowej szkole, bez uprzedniego wybadania gruntu. Jeśli przedstawiając się klasie poinformujesz o swoich zaimkach, wyślesz jasny sygnał, że jest na to otwartość i inne osoby mogą zrobić tak samo.
 
-Dobrą praktyką jest danie nowym uczniom możliwości podzielenia się swoimi zaimkami i preferowanym imieniem na początku nauki.
-
-:::info
-ℹ️  Jeśli przedstawiając się klasie poinformujesz o swoich zaimkach, wyślesz jasny sygnał, że jest na to otwartość i inne osoby mogą zrobić tak samo.
-:::
-
- Niektóre osoby też rozdają na początku pierwszej lekcji kartki na których uczniowie mogą się podzielić takimi informacjami jak preferowane imie, zaimki i czy stosować się da nich przy innych czy nie, ponieważ niektórzy uczniowie mogą nie czuć się komfortowo dzielić się takimi informacjami przy całej klasie.
+ Niektóre osoby też rozdają na początku pierwszej lekcji kartki na których uczniowie mogą się podzielić takimi informacjami jak preferowane imię, zaimki i czy stosować się da nich przy innych czy nie, ponieważ niektórzy uczniowie mogą nie czuć się komfortowo dzielić się takimi informacjami przy całej klasie.
 
 ## Dlaczego to takie ważne?
 
@@ -73,23 +74,38 @@ Usilne, celowe używane błędnego imienia i zaimków, stanowi formę przemocy. 
 
 Jeśli dziecko outuje się już w trakcie nauki, warto docenić zaufanie. Bardzo często taka osoba jest dopiero w trakcie odkrywania siebie, nie musi jeszcze wszystkiego rozumieć i może też nie być pewna jakie właściwie ma w związku z tym potrzeby. Zawsze dobrym pomysłem jest zapewnienie o swoim wsparciu i zapytanie czy oczekuje czegoś konkretnego, ale nie powinniśmy nic narzucać ani rzucać się do konkretnych procedur "automatycznie" - nie wiemy na ile taka osoba jest gotowa ani czy czuje się komfortowo z wyoutowaniem przed innymi.
 
-:::warning
-⚠️  Warto ostrożnie wybadać, czy rodzice wiedzą i jakie mają poglądy, żeby przypadkiem nie wyoutować ucznia. Przypadki przemocy w rodzinie wobec queerowych dzieci są w Polsce na tyle powszechne, że możesz w ten sposób potencjalnie narazić ucznia na olbrzymie niebezpieczeństwo.
-:::
+<div class="callout-block callout-warning"><div class="icon-holder">*&nbsp;*{: .fa .fa-exclamation-triangle}
+</div><div class="content">
+{: .callout-title}
+#### Uważaj, żeby przypadkiem nie wyoutować ucznia
+
+Warto ostrożnie wybadać, czy rodzice wiedzą i jakie mają poglądy, żeby przypadkiem nie wyoutować ucznia. Przypadki przemocy w rodzinie wobec queerowych dzieci są w Polsce na tyle powszechne, że możesz w ten sposób potencjalnie narazić ucznia na olbrzymie niebezpieczeństwo.
+
+</div></div>
 
 ## Wsparcie wychowawcy
 
 Jako wspierający wychowawca, możesz zaoferować uczniowi przeprowadzenie rozmowy z nauczycielami lub klasą, aby poinformować o zmianie i podpowiedziećjak powinni się zachować w nowej sytuacji. Uczniowie bardzo często pytają na grupach wsparcia, czy istnieje możliwość zmiany imienia w dzienniku, aby nauczyciele nie wyczytywali ich danych przy całej klasie. Choć przepisy nie przewidują takiej możliwości, zdarzają się wychowawcy oraz dyrektorzy, którzy uznają dobrostan ucznia za priorytetowy, w związku z czym poprawiają imię w dzienniku (np. przez dopisanie ołówkiem), a czasem nawet wystawiają poprawioną legitymację szkolną, co ratuje od wielu traum i nieprzyjemności gdy np. wygląd ucznia z powodu hormonów nie wskazuje już na nadaną przy urodzeniu płeć.
 
-:::warning
-⚠️  Jeśli z e-dziennika pobierane są automatycznie dane do generowania świadectw i innych trwałych dokumentów, w momencie ich generowania muszą się tam znajdować dane zgodne ze statusem prawnym ucznia. Nawet jeśli uczeń zmieni prawnie imię w trakcie uczęszczania do szkoły, wystawione już dokumenty nie podlegają korekcie[^3]. Wyjątek od tej reguły stanowi jedynie sytuacja, gdy osoba dokona korekty płci metrykalnej i zmieni się również PESEL.
-:::
+<div class="callout-block callout-warning"><div class="icon-holder">*&nbsp;*{: .fa .fa-exclamation-triangle}
+</div><div class="content">
+{: .callout-title}
+#### Generujesz świadectwa i inne ważne dokumenty na bazie danych z e-dziennika?
+
+Pamiętaj, że w momencie generowania trwałych dokumentów, w e-dzienniku muszą się] znajdować dane zgodne z sytuacją prawną ucznia. Nawet jeśli uczeń zmieni prawnie imię w trakcie uczęszczania do szkoły, wystawione już dokumenty nie podlegają korekcie[^3]. Wyjątek od tej reguły stanowi jedynie sytuacja, gdy osoba dokona korekty płci metrykalnej i zmieni się również jej PESEL.
+
+</div></div>
 
 Niezależnie od tego jakie dane zapisane są w dzienniku, nie musimy przecież ich wyczytywać na głos. Nie jest niczym zaskakującym, gdy nauczyciele zwracają się do uczniów zdrobnieniem imienia czy wręcz psudonimem, czemu więc robić wyjątek i upierać się przy pełnych formalnościach w przypadku uczniów transpłciowych? Nader często niestety zdarzają się nauczyciele, którzy twierdzą, że "nie mogą" zwracać się do uczniów zaimkami o które są proszeni. Oczywiście nie jest to prawdą. Warto w takiej sytuacji powiedzieć "sprawdzam" i poprosić o uzasadnienie wraz z wskazaniem podstawy prawnej.
 
-:::danger
-❗ Nie istnieją żadne przepisy określające jakimi zaimkami zwracać się do innych osób - zależy to jedynie od Twojego szacunku i dobrej woli. Zwroty **grzecznościowe** np."Pan/Pani" są z założenia wyrazem uprzejmości, dlatego upieranie się przy stosowaniu ich w sposób niekomfortowy dla danej osoby stanowi ich wypaczenie.
-:::
+<div class="callout-block callout-danger"><div class="icon-holder">*&nbsp;*{: .fa .fa-exclamation-triangle}
+</div><div class="content">
+{: .callout-title}
+#### Nie zasłaniaj się prawem czy dokumentami
+
+Nie istnieją żadne przepisy określające jakimi zaimkami zwracać się do innych osób - zależy to jedynie od Twojego szacunku i dobrej woli. Zwroty **grzecznościowe** np."Pan/Pani" są z założenia wyrazem uprzejmości, dlatego upieranie się przy stosowaniu ich w sposób niekomfortowy dla danej osoby stanowi ich wypaczenie.
+
+</div></div>
 
 Dlatego też wymagania od uczniów dodatkowych zaświadczeń np. od lekarza prowadzącego, psychologa czy terapeuty, tylko po to, aby zgodzić się na posługiwanie się językiem z którym będzie czuć się komfortowo, jest zbędną formalizacją i medykalizacją zwykłej ludzkiej uprzejmości. Niemniej jednak, niektórych upartych nauczycieli udaje się za pomocą takiego zaświadczenia przekonać, jeśli więc inne metody zawiodły - warto spróbować.
 
