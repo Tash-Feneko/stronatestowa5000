@@ -1,8 +1,7 @@
 ---
 title: Transpłciowa młodzież w polskiej szkole
 sections:
-  - Test
-  - Transpłciowa młodzież w polskiej szkole
+  - Wstęp
   - Słowo potężniejsze od miecza
   - Gdy osoba informuje Cię o swojej tożsamości
   - Warunki w szkole
