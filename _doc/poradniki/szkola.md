@@ -1,6 +1,7 @@
 ---
 title: Szkola
 sections:
+  - Test
   - Transpłciowa młodzież w polskiej szkole
   - Słowo poteżniejsze od miecza
   - Gdy osoba informuje Cię o swojej tożsamości
@@ -9,6 +10,8 @@ sections:
   - Dodatkowe materiały
   - Przypisy
 ---
+
+### Test
 
 # Transpłciowa młodzież w polskiej szkole
 
