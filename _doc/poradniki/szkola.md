@@ -11,9 +11,14 @@ Transpłciowa młodzież w środowisku szkolnym potrzebuje aktywnych sojusznikó
 
 Dlatego właśnie tak ważne jest, żeby dzieci wiedziały, że jesteś ich sojuszniczką, osobą do której mogą przyjść i porozmawiać gdy mają problem, gdy czują się z czymś niekomfortowo lub też inny nauczyciel zwyczajnie je prześladuje. Żeby wiedziały, że staniesz w ich obronie, a nie po stronie nauczyciela, dorosłego. Statystyki są nieubłagane - w całym społeczeństwie, w tym wokół Ciebie są osoby LGBT+. W miarę postępowania otwartośc i bezpieczeństwa społeczeństwa wydaje się, że takich osób jest więcej, do tego stopnia, że niektóre osoby o prawicowych poglądach snują nie mające nic wspólnego z nauką wizje o "tęczowej zarazie" - w dosłownym tego rozumieniu. Rzeczywistość jest jednak dużo prostsza:
 
-:::warning
-⚠️  Jeśli w Twoim otoczeniu  "nie ma" osób LGBT+, to znaczy, że z jakiegoś powodu nie czują się przy Tobie bezpiecznie lub nie wiedzą, że mogą być sobą.
-:::
+<div class="callout-block callout-warning"><div class="icon-holder">*&nbsp;*{: .fa .fa-exclamation-triangle}
+</div><div class="content">
+{: .callout-title}
+#### Nie masz w swoim otoczeniu osób LGBT+?
+
+Z badań wynika, że w każdym społeczeństwie średnio od 5 do 10 procent populacji to osoby LGBT+, a więc w Polsce jest ok. 2 milionów gejów, lesbijek, osób bi- i transpłciowych. Jeśli nie widzisz ich w swoim otoczeniu, może to oznaczać, że z jakiegoś powodu nie czują się przy Tobie bezpiecznie lub nie wiedzą, że mogą być sobą. [Czytaj więcej](https://mnw.org.pl/orientujsie/).
+
+</div></div>
 
 Warto nad tym popracować, bo bez tej atmosfery bezpieczeństwa i zaufania wokół siebie najprawdopodobniej nigdy nie dowiesz się o problemach swoich uczniów LGBT+, nie będziesz więc też w stanie im pomóc.
 
