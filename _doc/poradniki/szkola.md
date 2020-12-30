@@ -26,21 +26,21 @@ Warto nad tym popracować, bo bez tej atmosfery bezpieczeństwa i zaufania wokó
 # Słowo poteżniejsze od miecza
 Najczęstsze szkolne problemy zgłaszane przez transpłciowe dzieci i młodzież są natury językowej. To właśnie tym narzędziem są najsilniej krzywdzone i na tej płaszczyźnie potrzebują najwięcej wsparcia.
 
+<div class="callout-block callout-info"><div class="icon-holder">*&nbsp;*{: .fa .fa-info-circle}
+</div><div class="content">
+{: .callout-title}
+#### Niebinarny język i neutratywy
+
+Jeśli nie wiesz jak funkcjonuje język osób niebinarnych, poratuje Cię projekt [zaimki.pl](https://zaimki.pl/)
+
+</div></div>
+
 Za: [Stanowisko PTS ws. sytuajci społecznej, zdrowotnej i prawnej osób transpłciowych](https://pts-seksuologia.pl/sites/strona/83/stanowisko-pts-ws-sytuacji-spolecznej-zdrowotnej-i-prawnej-osob-transplciowych):
 > Na jakość życia osób transpłciowych silnie wpływa sposób, w jaki odnoszą się do nich inni [10]. Ich doświadczenia w relacjach społecznych wyraźnie pokazują, jak ważne jest poszanowanie potrzeby każdego człowieka, by zwracano się do niego zgodnie z przeżywaną tożsamością, w tym tożsamością płciową. Dotyczy to między innymi przyjętej przez daną osobę formy imienia, form rodzajowych wypowiadanych wobec niej zdań, a także zwracania się do niej zwrotami typowymi wobec płci, w której psychologicznie funkcjonuje [9].
 
 > Wiąże się z powyższym także postulat akceptacji funkcjonowania każdej osoby w określonych rolach płciowych w sposób przez nią preferowany, zgodny z jej potrzebami, a także umożliwienia każdemu wyrażania i określania swoich oczekiwań w tym zakresie [8,9].
 
 > Zagadnienia te wymagają szczególnego uwzględnienia przez osoby zajmujące się pomaganiem, ale także te grupy zawodowe, które kształtują język debaty publicznej, jak dziennikarze, prawnicy, czy politycy.
-
-<div class="callout-block callout-info"><div class="icon-holder">*&nbsp;*{: .fa .fa-info-circle}
-</div><div class="content">
-{: .callout-title}
-#### Niebinarny język i neutratywy
-
-eśli nie wiesz jak funkcjonuje język osób niebinarnych, poratuje Cię projekt [zaimki.pl](https://zaimki.pl/)
-
-</div></div>
 
 Nauczyciele bardzo często nie chcą się posługiwać poprawnym imieniem czy zaimkami z którymi uczeń czuje się komfortowo, złośliwie podkreślają deadname, a bywa też, że wyświetlają e-dziennik z danymi ucznia na projektorze, aby go jeszcze bardziej upokorzyć. Tego typu skrajne sytuacje łamią oczywiście przepisy RODO i dyrektor szkoły ma obowiązek interweniować. Jeśli masz podejrzenia, że pracownik szkoły niepoprawnie obchodzi się z Twoimi danymi osobowymi, możesz zapoznać się a następnie odwołać do [poradnika na temat ochrony danych osobowych w szkole](https://www.gov.pl/web/edukacja/ochrona-danych-osobowych-w-szkole--poradnik-uodo-i-men).
 
@@ -85,23 +85,16 @@ Warto ostrożnie wybadać, czy rodzice wiedzą i jakie mają poglądy, żeby prz
 
 ## Wsparcie wychowawcy
 
-Jako wspierający wychowawca, możesz zaoferować uczniowi przeprowadzenie rozmowy z nauczycielami lub klasą, aby poinformować o zmianie i podpowiedziećjak powinni się zachować w nowej sytuacji. Uczniowie bardzo często pytają na grupach wsparcia, czy istnieje możliwość zmiany imienia w dzienniku, aby nauczyciele nie wyczytywali ich danych przy całej klasie. Choć przepisy nie przewidują takiej możliwości, zdarzają się wychowawcy oraz dyrektorzy, którzy uznają dobrostan ucznia za priorytetowy, w związku z czym poprawiają imię w dzienniku (np. przez dopisanie ołówkiem), a czasem nawet wystawiają poprawioną legitymację szkolną, co ratuje od wielu traum i nieprzyjemności gdy np. wygląd ucznia z powodu hormonów nie wskazuje już na nadaną przy urodzeniu płeć.
+Jako wspierający wychowawca, możesz zaoferować uczniowi przeprowadzenie rozmowy z nauczycielami lub klasą, aby poinformować o zmianie i podpowiedziećjak powinni się zachować w nowej sytuacji. Uczniowie bardzo często pytają na grupach wsparcia, czy istnieje możliwość zmiany imienia w dzienniku, aby nauczyciele nie wyczytywali ich danych przy całej klasie. Choć przepisy nie przewidują takiej możliwości, zdarzają się wychowawcy oraz dyrektorzy, którzy uznają dobrostan ucznia za priorytetowy, w związku z czym poprawiają imię w dzienniku (np. przez dopisanie ołówkiem), a czasem nawet wystawiają poprawioną legitymację szkolną, co ratuje od wielu traum i nieprzyjemności np. gdy wygląd ucznia nie wskazuje na nadaną przy urodzeniu płeć.
 
-<div class="callout-block callout-warning"><div class="icon-holder">*&nbsp;*{: .fa .fa-exclamation-triangle}
-</div><div class="content">
-{: .callout-title}
-#### Generujesz świadectwa i inne ważne dokumenty na bazie danych z e-dziennika?
+Pamiętaj, że w momencie generowania trwałych dokumentów, w e-dzienniku muszą się znajdować dane zgodne z sytuacją prawną ucznia. Nawet jeśli uczeń zmieni prawnie imię w trakcie uczęszczania do szkoły, wystawione już dokumenty nie podlegają korekcie[^3]. Wyjątek od tej reguły stanowi jedynie sytuacja, gdy osoba dokona korekty płci metrykalnej i zmieni się również jej PESEL.
 
-Pamiętaj, że w momencie generowania trwałych dokumentów, w e-dzienniku muszą się] znajdować dane zgodne z sytuacją prawną ucznia. Nawet jeśli uczeń zmieni prawnie imię w trakcie uczęszczania do szkoły, wystawione już dokumenty nie podlegają korekcie[^3]. Wyjątek od tej reguły stanowi jedynie sytuacja, gdy osoba dokona korekty płci metrykalnej i zmieni się również jej PESEL.
-
-</div></div>
-
-Niezależnie od tego jakie dane zapisane są w dzienniku, nie musimy przecież ich wyczytywać na głos. Nie jest niczym zaskakującym, gdy nauczyciele zwracają się do uczniów zdrobnieniem imienia czy wręcz psudonimem, czemu więc robić wyjątek i upierać się przy pełnych formalnościach w przypadku uczniów transpłciowych? Nader często niestety zdarzają się nauczyciele, którzy twierdzą, że "nie mogą" zwracać się do uczniów zaimkami o które są proszeni. Oczywiście nie jest to prawdą. Warto w takiej sytuacji powiedzieć "sprawdzam" i poprosić o uzasadnienie wraz z wskazaniem podstawy prawnej.
+Niezależnie od tego jakie dane zapisane są w dzienniku, nie musimy przecież ich wyczytywać na głos. Nie jest niczym zaskakującym, gdy nauczyciele zwracają się do uczniów zdrobnieniem imienia czy wręcz pseudonimem, czemu więc robić wyjątek i upierać się przy pełnych formalnościach w przypadku uczniów transpłciowych? Nader często niestety zdarzają się nauczyciele, którzy twierdzą, że "nie mogą" zwracać się do uczniów zaimkami o które są proszeni. Oczywiście nie jest to prawdą. Warto w takiej sytuacji powiedzieć "sprawdzam" i poprosić o uzasadnienie wraz z wskazaniem podstawy prawnej.
 
 <div class="callout-block callout-danger"><div class="icon-holder">*&nbsp;*{: .fa .fa-exclamation-triangle}
 </div><div class="content">
 {: .callout-title}
-#### Nie zasłaniaj się prawem czy dokumentami
+#### Nie ma prawa zabraniającego uprzejmości
 
 Nie istnieją żadne przepisy określające jakimi zaimkami zwracać się do innych osób - zależy to jedynie od Twojego szacunku i dobrej woli. Zwroty **grzecznościowe** np."Pan/Pani" są z założenia wyrazem uprzejmości, dlatego upieranie się przy stosowaniu ich w sposób niekomfortowy dla danej osoby stanowi ich wypaczenie.
 
@@ -109,24 +102,39 @@ Nie istnieją żadne przepisy określające jakimi zaimkami zwracać się do inn
 
 Dlatego też wymagania od uczniów dodatkowych zaświadczeń np. od lekarza prowadzącego, psychologa czy terapeuty, tylko po to, aby zgodzić się na posługiwanie się językiem z którym będzie czuć się komfortowo, jest zbędną formalizacją i medykalizacją zwykłej ludzkiej uprzejmości. Niemniej jednak, niektórych upartych nauczycieli udaje się za pomocą takiego zaświadczenia przekonać, jeśli więc inne metody zawiodły - warto spróbować.
 
-:::info
-💡 Niektóre osoby próbują walczyć z prześladującymi ich nauczycielami za pomocą oficjalnego pisma do dyrekcji szkoły. Przykład takiego pisma znajdziesz [tutaj](https://docs.google.com/document/d/1yRanhZei8W71Wt6bPuUdF852s142AX1PYVqewyOoG78/edit?usp=sharing).
-:::
+<div class="callout-block callout-info"><div class="icon-holder">*&nbsp;*{: .fa .fa-info-circle}
+</div><div class="content">
+{: .callout-title}
+#### Pismo do szkoły
+
+iektóre osoby próbują walczyć z prześladującymi ich nauczycielami za pomocą oficjalnego pisma do dyrekcji szkoły. Przykład takiego pisma znajdziesz [tutaj](https://docs.google.com/document/d/1yRanhZei8W71Wt6bPuUdF852s142AX1PYVqewyOoG78/edit?usp=sharing).
+
+</div></div>
 
 W skrajnej sytuacji można również spróbować zwrócić się do publicznej poradni psychologiczno-pedagogicznej właściwej do rejonu szkoły z prośbą o wydanie orzeczenia o potrzebie kształcenia specjalnego. Dyrektor szkoły wraz z nauczycielami ma wtedy obowiązek dostosować sposób organizacji zajęć szkolnych do wskazań zawartych w tym dokumencie oraz potrzeb ucznia.[^4] W razie nie wywiązywania się z tego obowiązku, następnym właściwym krokiem byłaby już interwencja właściwego terytorialnie kuratora oświaty. Niestety trudno przewidzieć, czy lokalkna poradnia psychologiczno-pedagogiczna oraz kurator posiadają aktualną wiedzę na temat potrzeb transpłciowych uczniów i rzeczywiście staną po stronie ucznia.
 
-:::info
-ℹ Niezależnie od innych przepisów, ochronie prawnej podlegają dobra osobiste, m.in. nazwisko i pseudonim, cześć i godność[^5] oraz poczucie przynależności do określonej płci[^6].
-:::
+<div class="callout-block callout-warning"><div class="icon-holder">*&nbsp;*{: .fa .fa-exclamation-triangle}
+</div><div class="content">
+{: .callout-title}
+#### Ochrona prawna poczucia przynależności do płci
+
+Niezależnie od innych przepisów, ochronie prawnej podlegają dobra osobiste, m.in. nazwisko i pseudonim, cześć i godność[^5] oraz poczucie przynależności do określonej płci[^6].
+
+</div></div>
 
 Bardzo ciężko jest wygrać w pojedynkę ze złośliwym nauczycielem. Jeśli klasa jest pozytywnie nastawiona do transpłciowego ucznia, warto poprosić ją o wsparcie. Jeśli co i raz inny uczeń poprawi nauczyciela używającego złego imienia, a może nawet przewodnicząca klasy wstawi się za osobą w imieniu całej klasy, tak nauczyciel z pewnością będzie czuć mniej pewnie. W skrajnych sytuacjach może się okazać konieczna interwencja rodziców lub dyrektora szkoły.
 
 # Warunki w szkole
 Trans uczniowie mogą czuć się niekomfortowo z przebieraniem się na WF z innymi uczniami nadej płci lub w ogóle przy innych osobach. Może to wynikać z dysforii płciowej, rozpoczętej już tranzycji lub też zwyczajnie poczucia inności. Czasem tego typu dyskomfort może też być efektem gnębienia przez innych uczniów.
 
-:::info
-ℹ Dysforia płciowa - cierpienie odczuwane przez daną osobę z powodu niedopasowania jej tożsamości płciowej do płci przypisanej w chwili urodzenia.
-:::
+<div class="callout-block callout-info"><div class="icon-holder">*&nbsp;*{: .fa .fa-info-circle}
+</div><div class="content">
+{: .callout-title}
+#### Dysforia płciowa
+
+Jest to nazwa na cierpienie odczuwane przez daną osobę z powodu niedopasowania jej tożsamości płciowej do płci przypisanej w chwili urodzenia.
+
+</div></div>
 
 W idealnym świecie uczeń powinien mieć możliwość samodzielnego wyboru szatni czy ubikacji w której czuje się bezpiecznie i komfortowo. Czasami jako kompromis oferuje się takiemu uczniowi oddzielną szatnię i ubikację, lub pozwala się przebierać po pozostałych uczniach. W rzeczywistości, szczególnie w przypadku osób binarnych (dziewczyna lub chłopak, ale nie pomiędzy), jest to po prostu trochę inna forma dyskryminacji. Jest ona jednak trochę usprawiedliwiona w warunkach polskich szkół, gdyż czasami może to być faktycznie najbezpieczniejsze rozwiązanie. Niezależnie od tego na jaki wariant zdecyduje się szkoła, ważne, żeby przede wszystkim zapytać osobę bezpośrednio zainteresowaną jak z daną opcją się czuje i czy w ogóle oczekuje jakichkolwiek zmian.
 
@@ -147,10 +155,14 @@ Jeśli społeczeństwo nas wymazuje, ignorując osoby takie jak my na przestrzen
 
 Dlatego tak ważne jest, żeby uczniowie mieli poczucie, że szkoła jest miejscem, gdzie bezpiecznie mogą być sobą. Stąd inicjatywy takie jak Tęczowy Piątek czy warsztaty antydyskryminacyjne dla nauczycieli i uczniów. Mało co natomiast da uczniom większe poczucie pewności siebie niż uwzględnienie postaci queerowych w ramach prowadzonego przez siebie przedmiotu. Jasne, warsztaty antydyskryminacyjne mogą poprawić sytuację ucznia i sprawić, że poczuje się bezpieczniej, ale jeśli w trakcie zwykłej, codzinnej lekcji natknie się na postać "taką jak ja" potraktowaną jak każda inna osoba, pomoże mu się również czuć normalną osobą. To jest coś, czego nie dadzą żadne warsztaty. Może warto więc np. przy okazji Pułaskiego na historii wspomnieć, że najprawdopodobniej był osobą interpłciową, a na polskim poczytać poezję Piotra Własta, transpłciowego pisarza z okresu Młodej Polski? Osoby LGBT+ istniały od zawsze, nawet jeśli nie istniały na nie określenia. Bez problemu znajdziesz je w kontekście każdego przedmiotu, choć czasem trzeba się trochę postarać i przedzierać między wierszami cenzury.
 
+<div class="callout-block callout-info"><div class="icon-holder">*&nbsp;*{: .fa .fa-info-circle}
+</div><div class="content">
+{: .callout-title}
+#### Przeprowadź zajęcia o ewolucji języka
 
-:::info
 ℹ Jeśli chcesz rozbudzić w uczniach zainteresowanie językiem polskim, spróbuj odejść choć na jedną lekcję od sztywnych reguł i z pomocą [kategorii Literatura strony zaimki.pl](https://zaimki.pl/literatura) porozmawiać o ewolucji języka i neutratywach. Może uczniowie spróbują wymyślić własne?
-:::
+
+</div></div>
 
 # Szkolne doświadczenia osób trans:
 
