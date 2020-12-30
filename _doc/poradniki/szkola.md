@@ -1,12 +1,20 @@
 ---
 title: Szkola
+sections:
+  - Transpłciowa młodzież w polskiej szkole
+  - Słowo poteżniejsze od miecza
+  - Gdy osoba informuje Cię o swojej tożsamości
+  - Jak rozmawiać o tranpłciowości w szkole?
+  - Szkolne doświadczenia osób trans
+  - Dodatkowe materiały
+  - Przypisy
 ---
 
 # Transpłciowa młodzież w polskiej szkole
 
 Ten wpis jest w dużym stopniu kierowany dla nauczycieli, ale nie tylko. Znajdziesz w nim informacje na temat potrzeb transpłciowej młodzieży w szkole, trudnych sytuacji z jakimi się zmaga, ale przykłady rozwiązań i podpowiedzi. W zależności od preferencji, możesz zapoznać się tutaj z tekstowym podsumowaniem, załączonymi materiałami wideo, a nawet znaleźć gotowe poradniki do zapoznania się czy wydrukowania i zaniesienia do szkoły.
 
-# Przede wszystkim: brak obojętności
+## Przede wszystkim: brak obojętności
 Transpłciowa młodzież w środowisku szkolnym potrzebuje aktywnych sojuszników, do których może się zwrócić o pomoc i wie o tym. Sama obojętna tolerancja to zdecydowanie za mało, żeby móc się dumnie nzwać "sojusznikiem". Największą udręka trans dzieciaków w szkole są nauczyciele, którzy aktywnie je zwalczają, upokarzają i przy każdej okazji udowadniają kim mają, być przy całej klasie. Takie osoby nie przyjdą na warsztaty, nie przeczytają poradnika ani nie postanowią się z własnej inicjatywy doedukować. Dlatego tak ważna jest aktywna postawa sojuszników i rzeczywiste wsparcie, bo dziecko w takiej nierównej konfrontacji z osobą posiadającą nad nią władzę nie ma żadnych szans.
 
 Dlatego właśnie tak ważne jest, żeby dzieci wiedziały, że jesteś ich sojuszniczką, osobą do której mogą przyjść i porozmawiać gdy mają problem, gdy czują się z czymś niekomfortowo lub też inny nauczyciel zwyczajnie je prześladuje. Żeby wiedziały, że staniesz w ich obronie, a nie po stronie nauczyciela, dorosłego. Statystyki są nieubłagane - w całym społeczeństwie, w tym wokół Ciebie są osoby LGBT+. W miarę postępowania otwartośc i bezpieczeństwa społeczeństwa wydaje się, że takich osób jest więcej, do tego stopnia, że niektóre osoby o prawicowych poglądach snują nie mające nic wspólnego z nauką wizje o "tęczowej zarazie" - w dosłownym tego rozumieniu. Rzeczywistość jest jednak dużo prostsza:
@@ -70,7 +78,7 @@ Usilne, celowe używane błędnego imienia i zaimków, stanowi formę przemocy. 
 
 > A teraz wyobraź sobie, że ktoś to robi celowo przez całą resztę Waszej komunikacji. A teraz wyobraź sobie, że robi to ktoś na żywo, celowo i jeszcze Ci wmawia, że ma rację, bo według niego jesteś Karolem. A teraz krok dalej: wyobraź sobie, że robi to większość ludzi wokół Ciebie, zarówno obcych jak i bliskich. Takich, które wiedzą, że Cię to rani, ale uznają, że świadomość tego, jakie masz genitalia, daje im prawo do używania innej formy.
 
-## Gdy osoba informuje Cię o swojej tożsamości
+# Gdy osoba informuje Cię o swojej tożsamości
 
 Jeśli dziecko outuje się już w trakcie nauki, warto docenić zaufanie. Bardzo często taka osoba jest dopiero w trakcie odkrywania siebie, nie musi jeszcze wszystkiego rozumieć i może też nie być pewna jakie właściwie ma w związku z tym potrzeby. Zawsze dobrym pomysłem jest zapewnienie o swoim wsparciu i zapytanie czy oczekuje czegoś konkretnego, ale nie powinniśmy nic narzucać ani rzucać się do konkretnych procedur "automatycznie" - nie wiemy na ile taka osoba jest gotowa ani czy czuje się komfortowo z wyoutowaniem przed innymi.
 
@@ -218,7 +226,7 @@ Dlatego tak ważne jest, żeby uczniowie mieli poczucie, że szkoła jest miejsc
 
 </div></div>
 
-# Szkolne doświadczenia osób trans:
+# Szkolne doświadczenia osób trans
 
 Jeśli wolisz formę audio-wideo lub po prostu chcesz się zapoznać z doświadczeniami poszczególnych uczniów, zapraszam do obejrzenia następnujących materiałów:
 
@@ -229,7 +237,7 @@ Jeśli wolisz formę audio-wideo lub po prostu chcesz się zapoznać z doświadc
 {% include youtube.html id=grgUXOBv_po %}
 
 
-# Dodatkowe materiały:
+# Dodatkowe materiały
 
 * [Transpłciowe dzieckow w szkole. Poradnik nie tylko dla nauczycieli/ek // 2020](https://tash-feneko.github.io/stronatestowa5000/assets/docs/szkola/Transp%C5%82ciowe-dziecko-w-szkole.pdf)
 
