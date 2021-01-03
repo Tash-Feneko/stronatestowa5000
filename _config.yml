@@ -1,7 +1,7 @@
 #
 # Site settings
 #
-theme: PrettyDocs-Theme
+remote_theme: LeakyAbstractions/pretty-docs
 url: https://tash-feneko.github.io
 baseurl: /stronatestowa5000
 title: &site_title tranzycja.pl
@@ -14,7 +14,7 @@ branding:
 markdown: kramdown
 kramdown:
   auto_ids: true
-  entity_output: as_char
+  entity_output: as_input
   toc_levels: 1..6
   smart_quotes: lsquo,rsquo,ldquo,rdquo
   input: GFM
