@@ -10,4 +10,5 @@ navigation:
   - /poradniki
   - /spolecznosc
   - /faqs
+  - /dodatkowe_materialy
 ---
