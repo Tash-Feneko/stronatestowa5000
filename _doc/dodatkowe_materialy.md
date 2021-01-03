@@ -1,13 +1,13 @@
 ---
-title: Showcase
-excerpt: Layout for showcase page. Lorem ipsum dolor sit amet, consectetuer adipiscing elit
-date: 2016-01-25
+title: Dodatkowe materiały
+excerpt: Polecane projekty i publikacje
+date: 2020-01-03
 icon:
   name: icon_genius
 color: primary
 sections:
-  - /showcase/polecane_projekty
-  - /showcase/publikacje_pdf
+  - /dodatkowe_materialy/polecane_projekty
+  - /dodatkowe_materialy/publikacje_pdf
 promo:
   title: "*&nbsp;*{: .fa .fa-heart} [AppKit - Bootstrap Angular Admin Theme for Developers](https://wrapbootstrap.com/theme/admin-appkit-admin-theme-angularjs-WB051SCJ1?ref=3wm)"
   link: https://wrapbootstrap.com/theme/admin-appkit-admin-theme-angularjs-WB051SCJ1?ref=3wm
