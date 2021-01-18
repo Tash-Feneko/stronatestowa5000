@@ -1,5 +1,5 @@
 ---
-title: Free Themes
+title: Szkoła
 ---
 
 <div class="row">
@@ -14,11 +14,11 @@ title: Free Themes
 #### Developer
 
 {: .card-text}
-Portfolio theme for developers
+Transpłciowa młodzież w polskiej szkole
 
    </div>
 
-[*&nbsp;*{: .icon .fa .fa-search-plus}](http://themes.3rdwavemedia.com/website-templates/free-responsive-website-template-for-developers/){: .mask}
+[*&nbsp;*{: .icon .fa .fa-search-plus}](https://tash-feneko.github.io/stronatestowa5000/assets/docs/szkola/transplciowa_mlodziez.pdf){: .mask}
 
   </div>
  </div>

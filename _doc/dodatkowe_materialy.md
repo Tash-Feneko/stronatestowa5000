@@ -6,7 +6,7 @@ icon:
   name: icon_genius
 color: primary
 sections:
-  - /dodatkowe_materialy/polecane_projekty
+  - /dodatkowe_materialy/szkola
   - /dodatkowe_materialy/publikacje_pdf
 promo:
   title: "*&nbsp;*{: .fa .fa-heart} [tranzycja.pl - repozytorium wiedzy](https://tranzycja.pl)"
