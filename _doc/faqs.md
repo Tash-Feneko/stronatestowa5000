@@ -9,7 +9,7 @@ sections:
   - /faqs/detranzycje
   - /faqs/zabiegi
 promo:
-  title: "*&nbsp;*{: .fa .fa-heart} [tranzycja.pl - od społeczności, dla społeczności](https://tranzycja.pl)"
+  title: "*&nbsp;*{: .fa .fa-heart} [tranzycja.pl - repozytorium wiedzy](https://tranzycja.pl)"
   link: https://www.facebook.com/Tranzycjapl-101397228569497
   image:
     alt: tranzycja.pl
