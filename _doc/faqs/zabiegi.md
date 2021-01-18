@@ -10,4 +10,4 @@ Choć niektórzy chirurdzy z dłuższą praktyką nadal jeszcze wymagają zaprze
 
 Mając świadomość postępów jakie dokonały się w zakresie terapii hormonalnych i braku realnych wskazań, od lat już kolejni chirurdzy odchodzą od stawiania tego typy wymogów. Wreszcie opublikowane w 2021 roku [badanie](https://www.facebook.com/TransHealthResearch/posts/2956715697764064) na próbie prawie 1400 osób nie wykazało zależności terapii hormonalnej z powstawaniem zakrzepów.
 
-Badanie opublikowane w Journal of Clinical Endocrinology and Metabolism, Kozato et al., (2021). DOI: 10.1210/clinem/dgaa966
+Badanie opublikowano w Journal of Clinical Endocrinology and Metabolism, Kozato et al., (2021). DOI: 10.1210/clinem/dgaa966
