@@ -14,7 +14,7 @@ title: Szkoła
 #### Developer
 
 {: .card-text}
-Transpłciowa młodzież w polskiej szkole
+Transplciowa mlodziez w polskiej szkole
 
    </div>
 
