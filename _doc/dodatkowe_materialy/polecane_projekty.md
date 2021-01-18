@@ -6,7 +6,7 @@ title: Free Themes
  <div class="col-sm-6 col-xs-12">
   <div class="card">
 
-[![screenshot](assets/images/demo/theme-developer.png){: .img-responsive}](http://themes.3rdwavemedia.com/website-templates/free-responsive-website-template-for-developers/)
+[![screenshot](assets/images/szkola/transplciowa_mlodziez.png){: .img-responsive}](https://tash-feneko.github.io/stronatestowa5000/assets/docs/szkola/transplciowa_mlodziez.pdf)
 
    <div class="card-block">
 
