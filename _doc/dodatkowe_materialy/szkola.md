@@ -1,5 +1,5 @@
 ---
-title: Free Themes
+title: Szkoła
 ---
 
 <div class="row">
@@ -14,7 +14,7 @@ title: Free Themes
 #### Developer
 
 {: .card-text}
-Portfolio theme for developers
+Transpłciowa młodzież w polskiej szkole
 
    </div>
 
