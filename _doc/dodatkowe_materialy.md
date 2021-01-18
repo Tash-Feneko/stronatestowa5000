@@ -31,14 +31,3 @@ promo:
       {: .author}
       [Xiaoying Riley](http://themes.3rdwavemedia.com)
 ---
-
-<div class="jumbotron">
-
-# *&nbsp;*{: .fa .fa-twitter} Themes built with Twitter Bootstrap
-
-You can use this page layout to showcase how other people are using your projects.
-Below is a list of UX-centred Bootstrap themes I made for developers.
-
-[Explore Now](#premium-themes){: .scrollto .btn .btn-blue .btn-cta}
-
-</div>
